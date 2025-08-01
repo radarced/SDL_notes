@@ -1,0 +1,2 @@
+An SDL surface is just an image data type that contains the pixels of an image along with all data needed to render it. SDL surfaces use software rendering which means it uses the CPU to render.. A 2D image can be loaded from a file or it can be the image inside of a window.
+[[Common functions using Surfaces]]

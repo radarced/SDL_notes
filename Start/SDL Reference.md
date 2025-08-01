@@ -1,0 +1,6 @@
+- [[SDL Written in C]]
+- [[SDL Base Terminology]]
+- [[SDL is dynamicly linked]]
+- [[SDL Types and Their functions]]
+- [[SDL ep 1 (Windows,Surfaces,SDL_GetError,printf())]]
+- 

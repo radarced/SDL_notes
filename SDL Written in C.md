@@ -1,0 +1,1 @@
+SDL Is written in c meaning any kind of return types of watever api calls u do with sdl its all going to be in raw types like pointers and long long long typdef; which is convenient;
