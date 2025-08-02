@@ -9,3 +9,11 @@ some idioms of SDL :
 # Rendering Buffers;
 SDL doesnt render ur draws directly to the screen it works like this - > theres a back buffer where your draws are stored in and then when the updateWindow() func is called or anything like that it gets drawn to the front buffer; <- this Also means that
 u DO NOT call the updateWindow() after every backbuffer drawcall otherwise ur basically drawing one by one and then drawing ;
+
+## Formats , Size Of Images
+
+Formats and Size are not the same;
+for example
+Formats : pngs,bitmaps;
+Size : width,heihgt;
+this is exactly why Fncs like COnvertSurface() exist to cope with these formats conflicts;
